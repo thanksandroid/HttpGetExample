@@ -1,6 +1,6 @@
-HTTP Post requests in Android
+HTTP Get requests in Android
 =============================
 
-Android Http Post Requests Sample Application
+Android Http Get Requests Sample Application
 
 http://thanksandroid.com/http-get-requests-in-android/
